@@ -2,7 +2,9 @@
 
 ## Introduction and Purpose
 
-This is an analysis of SYRCityline Requests from 2021 to the present (as of April 2024). SYRCityline is an online platform for the residents of Syracuse to report non-emergency problems and request service from the city government. Residents can report their problems through a smartphone app or on the website portal. Once a user has submitted a service request, the system allows the user to check the progress of the request and provide feedback. An interactive map also allows users to locate the problems and increase the accuracy of the reports.
+This is an analysis of SYRCityline Requests from 2021 to the present (as of April 2024). SYRCityline is an online platform for the residents of Syracuse to report non-emergency problems and request service from the city government. This gives residents more flexibility by providing an alternative to calling the city hotline directly.
+
+Powered by SeeClickFix, residents can report their problems through a smartphone app or on the website portal. Once a user has submitted a service request, the system allows the user to check the progress of the request and provide feedback. An interactive map also allows users to locate the problems and increase the accuracy of the reports.
 
 This project will focus on analyzing the nature of the requests and the efficiency of service delivery. SYRCityline informs policymakers about residents' foremost concerns. For example, residents can report on issues that are closely related to people's daily lives and well-being, such as water leaks, trash disposal, and potholes. Therefore, analyzing the SYRCityline requests enables the government to understand the pulse of the community and ensure the policies are adaptive to the immediate needs and concerns of the people. 
 
